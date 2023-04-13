@@ -1,5 +1,5 @@
 // import images
-import Hero_person from "./assets/images/Hero/person.png";
+import Hero_person from "./assets/images/Hero/person1.png";
 
 import figma from "./assets/images/Skills/figma.png";
 import sketch from "./assets/images/Skills/sketch.png";
@@ -59,17 +59,17 @@ export const content = {
   ],
   hero: {
     title: "Web Developer",
-    firstName: "JOHN",
-    LastName: "ALEX",
+    firstName: "Usama",
+    LastName: "Tariq",
     btnText: "Hire Me",
     image: Hero_person,
     hero_content: [
       {
-        count: "8+",
+        count: "2+",
         text: "Years of Experinse in Web development",
       },
       {
-        count: "20+",
+        count: "5+",
         text: "Projects Worked in my career",
       },
     ],
@@ -79,7 +79,7 @@ export const content = {
     subtitle: "MY TOP SKILLS",
     skills_content: [
       {
-        name: "Figma",
+        name: "Laravel",
         para: "Lorem ipsum text  dummy",
         logo: figma,
       },
@@ -89,19 +89,9 @@ export const content = {
         logo: nodejs,
       },
       {
-        name: "Adobe Photoshop",
+        name: "React Native",
         para: "Lorem ipsum text  dummy",
         logo: ps,
-      },
-      {
-        name: "React js",
-        para: "Lorem ipsum text  dummy",
-        logo: reactjs,
-      },
-      {
-        name: "Sketch",
-        para: "Lorem ipsum text  dummy",
-        logo: sketch,
       },
       {
         name: "Python",
@@ -194,14 +184,14 @@ export const content = {
     subtitle: "GET IN TOUCH",
     social_media: [
       {
-        text: "codeaprogram@gmail.com",
+        text: "usamatariq747@gmail.com",
         icon: GrMail,
-        link: "mailto:codeaprogram@gmail.com",
+        link: "mailto:usamatariq747@gmail.com",
       },
       {
-        text: "+91 1234 56778",
+        text: "+923450888225",
         icon: MdCall,
-        link: "https://wa.me/1234567890",
+        link: "https://wa.me/923450888225",
       },
       {
         text: "codeaprogram",
@@ -211,6 +201,6 @@ export const content = {
     ],
   },
   Footer: {
-    text: "All © Copy Right Reserved 2022",
+    text: "All © Copy Right Reserved 2023",
   },
 };
