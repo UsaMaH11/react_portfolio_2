@@ -146,26 +146,22 @@ export const content = {
     subtitle: "WHAT OTHERS SAY",
     testimonials_content: [
       {
-        review:
-          ""I had the pleasure working with Usama for over 1.5 years at Botnostic. I highly admire his technical skills in Backend Development especially in Node, PHP Laravel and Blockchain. Apart from technical skills, he has exceptional communicational skills and he is good team player. I highly recommend him because I know he will be an invaluable asset to any organization."",
+        review: "I had the pleasure working with Usama for over 1.5 years at Botnostic. I highly admire his technical skills in Backend Development especially in Node, PHP Laravel and Blockchain. Apart from technical skills, he has exceptional communicational skills and he is good team player. I highly recommend him because I know he will be an invaluable asset to any organization.",
         img: avatar1,
         name: "IDREES AHMED",
       },
       {
-        review:
-          ""Exceptional backend engineer who delivered scalable systems that became core to our infrastructure."",
+        review: "Exceptional backend engineer who delivered scalable systems that became core to our infrastructure.",
         img: avatar2,
         name: "TECH LEAD",
       },
       {
-        review:
-          ""Usama's system design and performance optimization skills transformed our platform's reliability."",
+        review: "Usama's system design and performance optimization skills transformed our platform's reliability.",
         img: avatar3,
         name: "CTO",
       },
       {
-        review:
-          ""Deep understanding of backend principles and ability to make architectural decisions that stick."",
+        review: "Deep understanding of backend principles and ability to make architectural decisions that stick.",
         img: avatar4,
         name: "ENGINEERING MANAGER",
       },
